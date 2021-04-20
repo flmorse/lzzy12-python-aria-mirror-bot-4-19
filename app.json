@@ -1,0 +1,16 @@
+{
+  "name": "Pytho Aria Mirror Bot",
+  "description": "This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.",
+  "keywords": [],
+  "repository": "https://github.com/flmorse/lzzy12-python-aria-mirror-bot-4-19",
+  "website": "https://github.com/flmorse/lzzy12-python-aria-mirror-bot-4-19",
+  "logo": "https://telegra.ph/file/6921f9907085e5bd5f1bd.png",
+  "env": {},
+  "stack": "container",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
